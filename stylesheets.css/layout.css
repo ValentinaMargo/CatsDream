@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+}
+
+body {
+  width:100vw;
+  background-size: contain;
+  background-color: #F1E9D9;
+}
+
+section {
+  width: 100vw;
+  height: 66vh;
+}
+
+.firstscreen {
+  display: flex;
+  flex-direction: row;
+}
+
+.firstepisode {
+  width: 50vw;
+  height: 60vh;
+  background: linear-gradient(#6948EE, #6158F1, #6C8DCF, #DCD4CB);
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.wrap {
+  position: relative;
+}
+.wrap img {
+  position: absolute;
+  width: 50vw;
+  height: 60vh;
+}
+
+.secondepisode {
+  width: 44vw;
+  height: 60vh;
+  background: linear-gradient(#F1E9D9, #FDCBCA);
+  margin-top: 2%;
+  margin-inline-start: 2%;
+  margin-right: 2%;
+}
+
+.wrap2 {
+  position: relative;
+}
+.wrap2 img {
+  position: absolute;
+  width: 44vw;
+  height: 60vh;
+}
+
+.section2 {
+  width: 100vw;
+  height: 62vh;
+}
+
+.secondscreen {
+  display: flex;
+  flex-direction: row;
+}
+
+.thirdepisode {
+  width: 44vw;
+  height: 60vh;
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-bottom: 1%;
+}
+
+.wrap3 {
+  position: relative;
+}
+.wrap3 img {
+  position: absolute;
+  width: 44vw;
+  height: 60vh;
+}
+
+.mask {
+  margin-left: 30%;
+}
+
+.fourthepisode {
+  width: 50vw;
+  height: 60vh;
+  background-color: #FBEB43;
+  margin-top: 2%;
+  margin-inline-start: 2%;
+  margin-right: 2%;
+  margin-bottom: 1%;
+}
+
+.section3 {
+  width: 100vw;
+  height: 100vh;
+}
+
+.thirdscreen {
+  display: flex;
+  flex-direction: row;
+}
+
+.seventhepisode {
+  width: 34vw;
+  height: 60vh;
+  background-color: #CFDCCB;
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
+
+.eighthepisode {
+  width: 60vw;
+  height: 60vh;
+  background-color: #FBEB43;
+  margin-top: 2%;
+  margin-inline-start: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
